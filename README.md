@@ -1,7 +1,7 @@
 # Image-Recognition-Project
-Image recognition and Classification Project for final year college students.
+Image recognition and Classification Project for college students.
 
-## Synopsis-
+## SYNOPSIS-
 
 Deep learning technologies are becoming the major approaches for natural signal and information processing, like image classification, speech recognition. Deep learning is a technology inspired by the functioning of human brain. In deep learning, networks of artificial neurons analyze large dataset to automatically discover underlying patterns, without human intervention, deep learning identify patterns in unstructured data such as, Images, sound, video and text. Convolutional neural networks (CNN) become very popular for image classification in deep learning; CNN’s perform better than human subjects on many of the image classification datasets. 100% is the result predicted for Image recognition. 
 
@@ -24,10 +24,10 @@ OUTPUT :
 Hi there, 
 
 ## HOW TO RUN THIS PROJECT:
-Mail me now to get PPT, Project report, Research Papers and Project Report on this Project.
+Mail me **vatshayan007@gmail.com** now to get PPT, Project report, Research Papers and Project Report on this Project.
 Full explaintation is in Project Report.
 
 ## CONTACT:
-Mail me at vatshayan007@gmail.com for the Help in any kind of Project related to Image recoginition, Machine Learning, Data Science and Cryptography.
+Mail me at **vatshayan007@gmail.com** for the Help in any kind of Project related to Image recoginition, Machine Learning, Data Science and Cryptography.
 
 Ask freely!
