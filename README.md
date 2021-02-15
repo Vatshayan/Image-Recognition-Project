@@ -15,4 +15,7 @@ Libraries Used on this Project are -
 INPUT :
 <img width="446" alt="Image_recognition1" src="https://user-images.githubusercontent.com/28294942/107910875-55730e00-6f81-11eb-94ed-4abba93d365d.PNG">
 
+
+
 OUTPUT : 
+<img width="552" alt="Image_recognition2" src="https://user-images.githubusercontent.com/28294942/107911190-feba0400-6f81-11eb-8902-ca7e888fd32c.PNG">
