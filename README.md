@@ -1,5 +1,5 @@
 # Image-Recognition-Project
-Image recognition and Classification Project for college students.
+A Beautiful and Top class Image recognition and Classification Project for college students.
 
 ## SYNOPSIS-
 
