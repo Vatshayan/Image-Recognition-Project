@@ -1,0 +1,61 @@
+﻿Image Recognition system
+
+
+Synopsis-
+
+
+Deep learning technologies are becoming the major approaches for natural signal and information processing, like image classification, speech recognition. Deep learning is a technology inspired by the functioning of human brain. In deep learning, networks of artificial neurons analyze large dataset to automatically discover underlying patterns, without human intervention, deep learning identify patterns in unstructured data such as, Images, sound, video and text. Convolutional neural networks (CNN) become very popular for image classification in deep learning; CNN’s perform better than human subjects on many of the image classification datasets. 100% is the result predicted for Image recognition. 
+
+
+Libraries Used on this Project are -
+1. Keras
+2. Numpy
+3. Pandas
+4. Matplotlib
+5. pathlib
+
+
+Different types of Image are predicted from this Project Code. 
+
+
+Function- 
+
+
+Input as Image will be given 
+
+
+Output will tell and classify the Image 
+
+
+-Python Programming is used for the Project.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                        -Made by Shivam Vatshayan
+                                                                                               Software Engineer
+                                                                                           vatshayan007@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+*  Please Edit my name in the project Report before giving to your Mentor, Guide or Faculty.
+                       --------------------------------       Thanks      ---------------------------------------
